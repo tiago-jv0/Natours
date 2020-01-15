@@ -30,6 +30,9 @@
     big-desktop
 
 
+    ORDER : Base -> Typography -> general layout > page layout > components
+
+
     1em = 16px;
 */
 @mixin respond($breakpoint) {
